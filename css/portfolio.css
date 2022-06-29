@@ -1,0 +1,8 @@
+.portfoliocontent{ background:#fff; left:0; margin-left:10px; margin-top:3px;position:fixed; _position:absolute ;}
+
+a.portfolio{ _background-image:none; background:#333; width:100px; border:1px solid #444; color:#fff;
+			display:block; font-size:15px; font-weight:700; left:0; margin-top:53px;padding:15px 40px 15px 15px; _padding:15px 20px 15px 15px; text-decoration:none; top:85px; 
+			position:fixed; _position:absolute;}
+			
+	a.portfolio:hover{ background:#222; _position:absolute; _background-image:none; }
+	a.active.portfolio{ background:#222; _position:absolute; _background-image:none; }
